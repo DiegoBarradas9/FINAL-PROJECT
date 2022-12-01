@@ -14,7 +14,7 @@ a. Add student
 b. Search
 
      - allow the user to search a student through Last Name or Student Number
- - if the student exists in the database, display the student's info. Otherwise, display the necessary message.
+     - if the student exists in the database, display the student's info. Otherwise, display the necessary message.
 
 c. Edit
 
