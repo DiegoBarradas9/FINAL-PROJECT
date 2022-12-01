@@ -1,14 +1,4 @@
 # Student-CRUD-system
-
-
-GROUP MEMBERS
-
-
-        -DIEGO BARRADAS
-        -JUSTINE PAUL MORENO
-        -ALEXIS LOUIE DE LEON
-        -JONNA FE MENDOZA
-
 Student CRUD system through python
 
 Create a python application with the following requirements:
@@ -44,6 +34,13 @@ f. Display sections
     - display all the sections and their student count
     - this can be extracted from the students' info
     
+GROUP MEMBERS
+
+
+        -DIEGO BARRADAS
+        -JUSTINE PAUL MORENO
+        -ALEXIS LOUIE DE LEON
+        -JONNA FE MENDOZA
     
     
 
