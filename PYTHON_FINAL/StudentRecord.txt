@@ -1,0 +1,4 @@
+Student ID                               Firstname                                Lastname                                 Email                                    Section
+54321                                    John                                     Bartolome                                john@gmail.com                           IT                                      
+1234567890                               qwertyuiop                               qwertyuiop                               qwertyuiop                               qwertyuiop                              
+102                                      diego                                    barradas                                 diegobarradas2003@gmail.com              it 2102                                 
