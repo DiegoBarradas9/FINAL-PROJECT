@@ -290,7 +290,26 @@ def displayAll():
         print("")
 
 
-def 
+def displaySections():
+    print("\n===| STUDENT SECTIONS |===")
+    with open("StudentRecord.txt", "r") as fp:
+        print(f"{'Section':<22} {' Count'}")
+        fp.readline()
+        lines = fp.readlines()
+        so = []
+        tdict = {}
+        for n in range(len(lines)):
+         sec = lines[n].split()
+         if sec[4] in tdict.keys():
+          tdict.update({sec[4]: (tdict.get(sec[4])+1)})
+         else:
+            so.append(sec[4])
+            tdict[sec[4]] = 1
+         
+    for k, v in tdict.items():
+        print(f"{k:<25} {v}")
+
+    print("")
 
 
 # Welcome Text
