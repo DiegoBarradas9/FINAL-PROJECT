@@ -313,7 +313,7 @@ def displaySections():
 
 
 # Welcome Text
-print('\n===== WELCOME TO =====\nSTUDENT RECORDS SYSTEM\n')
+print('\n===== WELCOME TO =====\nIT STUDENT RECORDS SYSTEM\n')
 
 choice = ""
 while (choice != '7'):
