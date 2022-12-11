@@ -6,13 +6,14 @@ ADVANCED COMPUTER PROGRAMMING
 SELF ASSESSMENT:
         The group evaluated the system using the provided grading rubric, which resulted in the following:
         
-        
-     | Code Reusability   |   |   | ✔ |   |
-     | Maintainability    |   | ✔ |   |   |
-     | Scalability        |   | ✔ |   |   |
-     | Execution          | ✔ |   |   |   |
-     | Originality        |   | ✔ |   |   |
-     | Overall Impression |   | ✔ |   |   |
+      
+      |       Metric       | 4 | 3 | 2 | 1 |
+      | Code Reusability   |   |   | ✔ |   |
+      | Maintainability    |   | ✔ |   |   |
+      | Scalability        | ✔ |   |   |   |
+      | Execution          |   | ✔ |   |   |
+      | Originality        |   | ✔ |   |   |
+      | Overall Impression |   | ✔ |   |   |
         
         
         
