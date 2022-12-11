@@ -5,7 +5,8 @@ Student CRUD system through python
 ADVANCED COMPUTER PROGRAMMING 
 
 OUR UML DIAGRAM 
-![Screenshot 2022-12-11 103409](https://user-images.githubusercontent.com/113688992/206883742-a9029bc3-4861-46f6-b04f-4c66a15d14f3.png)
+
+     ![Screenshot 2022-12-11 103409](https://user-images.githubusercontent.com/113688992/206883742-a9029bc3-4861-46f6-b04f-4c66a15d14f3.png)
 
 Create a python application with the following requirements:
 
@@ -43,7 +44,7 @@ f. Display sections
 GROUP MEMBERS
 
 
-        -DIEGO BARRADAS
+        -DIEGO BARRADAS/@Diegobarradas9
         -JUSTINE PAUL MORENO
         -ALEXIS LOUIE DE LEON
         -JONNA FE MENDOZA
