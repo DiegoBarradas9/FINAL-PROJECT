@@ -3,8 +3,13 @@ Student CRUD system through python
 
 
 ADVANCED COMPUTER PROGRAMMING 
-
-OUR UML DIAGRAM 
+SELF ASSESSMENT:
+        The group evaluated the system using the provided grading rubric, which resulted in the following:
+        
+        
+        
+        
+OUR UML DIAGRAM:
 
    ![Screenshot 2022-12-11 103409](https://user-images.githubusercontent.com/113688992/206883742-a9029bc3-4861-46f6-b04f-4c66a15d14f3.png)
 
