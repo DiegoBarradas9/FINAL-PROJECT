@@ -51,8 +51,8 @@ GROUP MEMBERS
 
         -DIEGO BARRADAS/@Diegobarradas9
         -JUSTINE PAUL MORENO/@JustinePaulMoreno
-        -ALEXIS LOUIE DE LEON/@Aleksheesh
-        -JONNA FE MENDOZA/JonnaFe
+        -ALEXIS LOUIE DE LEON/@Aleksheeesh
+        -JONNA FE MENDOZA/JonnaFe0317
         
     https://www.youtube.com/watch?v=Pagk8OAylMg
     
