@@ -3,8 +3,10 @@ Student CRUD system through python
 
 
 ADVANCED COMPUTER PROGRAMMING 
-SELF ASSESSMENT:
-        The group evaluated the system using the provided grading rubric, which resulted in the following:
+
+
+  SELF ASSESSMENT:
+          The group evaluated the system using the provided grading rubric, which resulted in the following:
         
       
       |       Metric       | 4 | 3 | 2 | 1 |
