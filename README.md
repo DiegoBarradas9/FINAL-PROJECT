@@ -16,13 +16,6 @@ ADVANCED COMPUTER PROGRAMMING
       | Execution          |   | ✔ |   |   |
       | Originality        |   | ✔ |   |   |
       | Overall Impression |   | ✔ |   |   |
-        
-        
-        
-        
-OUR UML DIAGRAM:
-
-  
 
 Create a python application with the following requirements:
 
@@ -56,6 +49,15 @@ f. Display sections
 
     - display all the sections and their student count
     - this can be extracted from the students' info
+
+
+OUR UML DIAGRAMP:
+
+![image](https://user-images.githubusercontent.com/113688992/206897670-813fe66f-7734-45f4-aabc-12c82ddc66bc.png)
+
+
+
+
     
 GROUP MEMBERS
 
